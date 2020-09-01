@@ -45,7 +45,7 @@ echo -e "
      ${RED}██${WHITE}║ ╚═╝ ${RED}██${WHITE}║${RED}██${WHITE}║${RED}██${WHITE}║  ${RED}██${WHITE}║${RED}██${WHITE}║  ${RED}██${WHITE}║${RED}██${WHITE}║${RED}███████${WHITE}║${RED}███████${WHITE}╗   ${RED}██${WHITE}║   ╚${RED}██████${WHITE}╔╝${RED}██${WHITE}║     
      ${WHITE}╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝ 
 "
-echo -e "${WHITE}Devs:${WHITE} [${LIGHTCYAN}@FlexingOnLamers${WHITE}]"
+echo -e "${WHITE}Devs:${WHITE} [${RED}@Vexvain${WHITE}]"
 echo -e "${LIGHTBLUE}list ${WHITE}To See The Full List OF Commands "
 echo -e "\n"
 echo -e ""
